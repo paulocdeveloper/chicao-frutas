@@ -1,0 +1,29 @@
+li img {
+    width: 240px;
+    margin-top: 25px;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 75px;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}
+
+ul .center {
+    justify-content: space-around;
+    width: 200px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: green; 
+}
+
+a:hover {
+    color: #eb8310;
+}

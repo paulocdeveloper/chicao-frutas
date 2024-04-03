@@ -177,3 +177,73 @@ h1 {
     font-size: 16px;
     color: var(--brand-green);
 }
+
+.title-servicos {
+    text-align: center;
+}
+
+.title-servicos p {
+    font-size: 14px;
+    font-weight: bold;
+    color: var(--brand-green);
+}
+
+.title-servicos h2 {
+    font-size: 40px;
+    font-weight: bold;
+    color: var(--gray-headline);
+
+    margin: 16px 0 0 0;
+}
+
+.container-box-vantagens {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-vantagens {
+    margin: 52px 15px 120px 15px;
+    border: 1px solid var(--brand-green-light);
+    border-radius: 6px;
+    width: 400px;
+    height: 200px;
+    padding: 24px;
+}
+
+.box-vantagens h3 {
+    font-weight: bold;
+    font-size: 24px;
+    color: var(--gray-headline);
+    margin: 15px 0;
+}
+
+.box-vantagens p {
+    font-size: 16px;
+    color: var(--gray-paragraph);
+    line-height: 150%;
+}
+
+.container-sobre {
+    display: flex;
+}
+
+.title-sobre p {
+    font-size: 14px;
+    font-weight: bold;
+    color: var(--brand-green);
+}
+
+.title-sobre h2 {
+    font-size: 40px;
+    font-weight: bold;
+    color: var(--gray-headline);
+
+    margin: 10px 0 24px 0;
+}
+
+#text-sobre {
+    font-weight: 100;
+    font-size: 16px;
+    color: var(--gray-paragraph);
+}
